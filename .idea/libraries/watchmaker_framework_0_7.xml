@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="watchmaker-framework-0.7">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/watchmaker-framework-0.7.1/watchmaker-framework-0.7.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/watchmaker-framework-0.7.1/watchmaker-framework-0.7.1/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/watchmaker-framework-0.7.1/watchmaker-framework-0.7.1/examples/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/watchmaker-framework-0.7.1/watchmaker-framework-0.7.1" recursive="false" />
+  </library>
+</component>
